@@ -32,8 +32,8 @@ class Employee extends Person {
 
 public class PRACTICAL_18 {
     public static void main(String[] args) {
-        Employee Harsh = new Employee(100, "Harsh Jain", 20, 250000);
-        Harsh.displayPerson();
-        Harsh.displayEmployee();
+        Employee Shyam = new Employee(230, "Bhatt Shyam", 25, 300000);
+        Shyam.displayPerson();
+        Shyam.displayEmployee();
     }
 }
